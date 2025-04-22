@@ -1,7 +1,0 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6c60044188019abb294d759a3cdf0d5fcdfa8457da06296955c267522c46f87
-size 126
-*.uasset !text !filter !merge !diff
-*.umap !text !filter !merge !diff
-.gitignore !text !filter !merge !diff
-.gitattributes !text !filter !merge !diff
