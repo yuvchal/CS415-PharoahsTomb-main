@@ -1,0 +1,13 @@
+# Ignore Unreal Engine build folders
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore common editor files
+*.log
+*.tmp
+*.user
+*.suo
+*.sdf
+*.opensdf
+.vscode/
