@@ -29,7 +29,6 @@ Pharaoh's Tomb – Unreal Engine Project
   - git add .
   - git commit -m "Your message"
   - git push
-- Important: Please avoid uploading very large new assets (huge textures, videos, etc.) without checking first to help manage our GitHub LFS storage.
 
 - If you ever pull and find missing assets, run:
 
