@@ -17,3 +17,6 @@ Content/__ExternalActors__/
 Content/Sword_Animation/
 desktop.ini
 temp_git_backup/
+
+# Ignore imported desert asset pack
+Content/RealisticDesertPack/
